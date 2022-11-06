@@ -14,7 +14,6 @@ Readme Competition
 - Emojis can be altered.
 - No change to logo and it's positioning in header.
 - Total contributors accross all repositories.
-- Add our LinkedIn profile with its logo :https://www.linkedin.com/company/csi-sct-sb/?originalSubdomain=in
 - Present [GitHUB handle](https://github.com/CSI-SCT-SB/CSI-SCT-SB) : Use resources from here.
 - You can add images and any other necessory files in respective folders.
 - You can add many more parameters under performance section based on your skills.
@@ -26,3 +25,9 @@ Readme Competition
 
 ### [📞 *Click Here to Contact Us*](https://chat.whatsapp.com/I3aYaHTC31G8C35zMzRod7)
 ### [📝 Google Form For Participation]()
+
+<p align="center">
+ <img src="https://github.com/CSI-SCT-SB/MarkItDown/blob/main/DON'T%20OPEN%20THIS/govindmartinscorsce.png" alt="QUOTE" />
+ <p align="center">SAY NO TO PLAGIARISM</p>
+</p>
+
