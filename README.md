@@ -17,6 +17,7 @@ Readme Competition
 - Add our LinkedIn profile with its logo :https://www.linkedin.com/company/csi-sct-sb/?originalSubdomain=in
 - Present [GitHUB handle](https://github.com/CSI-SCT-SB/CSI-SCT-SB) : Use resources from here.
 - You can add many more parameters under performance section based on your skills.
+- Last but not the least, Creativity has no limit!
 
 
 **Only give PR to update corresponding folder in repositories.**
