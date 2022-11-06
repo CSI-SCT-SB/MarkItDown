@@ -8,7 +8,8 @@ Read Competition
 - No change to existing urls provided or main text content.
 - Emojis can be altered.
 - No change to logo and it's positioning in header.
-- Total contributors accross all repositories .
+- Total contributors accross all repositories.
+- Add our Linked in profile with its logo :https://www.linkedin.com/company/csi-sct-sb/?originalSubdomain=in
 
 
 Only give PR to update corresponding folder in repositories.
