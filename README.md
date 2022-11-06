@@ -20,7 +20,7 @@ Readme Competition
 - Last but not the least, Creativity has no limit!
 
 
-**Only give PR to update corresponding folder in repositories.**
+**Only give PR to update corresponding folder with your name in this repository.**
 ## ⚠️ Contribution to someone else's folder will be considered diqualification.
 
 ### [📞 *Click Here to Contact Us*](https://chat.whatsapp.com/I3aYaHTC31G8C35zMzRod7)
