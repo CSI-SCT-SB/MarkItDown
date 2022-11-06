@@ -14,8 +14,9 @@ Readme Competition
 - Emojis can be altered.
 - No change to logo and it's positioning in header.
 - Total contributors accross all repositories.
-- Add our Linked in profile with its logo :https://www.linkedin.com/company/csi-sct-sb/?originalSubdomain=in
+- Add our LinkedIn profile with its logo :https://www.linkedin.com/company/csi-sct-sb/?originalSubdomain=in
 - Present [GitHUB handle](https://github.com/CSI-SCT-SB/CSI-SCT-SB) : Use resources from here.
+- You can add many more parameters under performance section based on your skills.
 
 
 **Only give PR to update corresponding folder in repositories.**
