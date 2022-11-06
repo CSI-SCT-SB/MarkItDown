@@ -13,7 +13,7 @@ Read Competition
 - Present [GitHUB handle](https://github.com/CSI-SCT-SB/CSI-SCT-SB) : Use resources from here.
 
 
-Only give PR to update corresponding folder in repositories.
+**Only give PR to update corresponding folder in repositories.**
 ## ⚠️ Contribution to someone else's folder will be considered diqualification.
 
 ### [📞 *Click Here to Contact Us*](https://chat.whatsapp.com/I3aYaHTC31G8C35zMzRod7)
