@@ -26,6 +26,10 @@ Readme Competition
 ### [📞 *Click Here to Contact Us*](https://chat.whatsapp.com/I3aYaHTC31G8C35zMzRod7)
 ### [📝 Google Form For Participation]()
 
+
+
+#### NEVER   TRY   TO   EDIT   THIS   README   FILE   YOU   ARE   READING    NOW
+
 <p align="center">
  <img src="https://github.com/CSI-SCT-SB/MarkItDown/blob/main/DON'T%20OPEN%20THIS/govindmartinscorsce.png" alt="QUOTE" />
  <p align="center">SAY NO TO PLAGIARISM</p>
