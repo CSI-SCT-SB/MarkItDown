@@ -1,5 +1,5 @@
 # MarkItDown
-Read Competition 
+Readme Competition 
 
 - Replace social media handle names with their respective logos.
 - Total PRs across all repos should be displayed.
