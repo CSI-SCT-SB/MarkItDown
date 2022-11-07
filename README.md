@@ -20,8 +20,13 @@ Readme Competition
 - Last but not the least, Creativity has no limit!
 
 
-**Only give PR to update corresponding folder with your name in this repository.**
+## ⚠️ Only give PR to update corresponding folder with your name in this repository.
 ## ⚠️ Contribution to someone else's folder will be considered diqualification.
+## ⚠️ Upload Drive link inside corresponding folder in this repository.
+## ⚠️ Give view permissions to :
+- csi@sctce.ac.in
+- lekshmid2002@gmail.com
+- govind123.ga@gmail.com
 
 ### [📞 *Click Here to Contact Us*](https://chat.whatsapp.com/I3aYaHTC31G8C35zMzRod7)
 ### [📝 Google Form For Participation](https://forms.gle/Ui9mspFnRurT3kF79)
