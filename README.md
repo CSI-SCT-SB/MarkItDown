@@ -36,8 +36,5 @@ Readme Competition
 
 #### NEVER   TRY   TO   EDIT   THIS   README   FILE   YOU   ARE   READING    NOW
 
-<p align="center">
- <img src="https://github.com/CSI-SCT-SB/MarkItDown/blob/main/DON'T%20OPEN%20THIS/govindmartinscorsce.png" alt="QUOTE" />
- <p align="center">SAY NO TO PLAGIARISM</p>
-</p>
+
 
