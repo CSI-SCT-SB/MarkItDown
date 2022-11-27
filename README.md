@@ -16,6 +16,6 @@ Readme Competition
 ## SPECIAL MENTIONS
 - ✨ [Anna Mary John](https://github.com/Annamjohn)
 - ✨ [Govind SR](https://github.com/theinfinox)
-
+- ✨ [Ashif](https://github.com/azhiif)
 
 #### [📝 Write to Us](mailto:csi@sctce.ac.in)
