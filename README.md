@@ -7,7 +7,11 @@
 Readme Competition 
 
 ## RESULTS🏆
-🥇 [Benyamin]()
+🥇 [Benyamin](https://github.com/benAJoseph)
+🥈 [Mohammed FA](https://github.com/mohd-fa)
+🥉 [Rohith Syam](https://github.com/rxhith)
+🏅 [Shamir Ashraf](https://github.com/shamiroxs)
+🏅 [Harikrishnan US](https://github.com/HKRcodes)
 
 
 #### [📝 Write to Us](mailto:csi@sctce.ac.in)
