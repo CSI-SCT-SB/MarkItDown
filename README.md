@@ -19,8 +19,8 @@ Readme Competition
 - ✨ [Ashif](https://github.com/azhiif)
 
 ## ORGANIZERS
-- ✨ [Madhav C](https://github.com/madhavc21)
-- ✨ [Govind A](https://github.com/GOVINDFROMINDIA)
-- ✨ [Lekshmi D](https://github.com/Lekshmi-D)
+- 👥 [Madhav C](https://github.com/madhavc21)
+- 👥 [Govind A](https://github.com/GOVINDFROMINDIA)
+- 👥 [Lekshmi D](https://github.com/Lekshmi-D)
 
 #### [📝 Write to Us](mailto:csi@sctce.ac.in)
