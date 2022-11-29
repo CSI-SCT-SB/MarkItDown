@@ -14,7 +14,7 @@ Readme Competition
 - 🏅 [Shamir Ashraf](https://github.com/shamiroxs)
 
 ## SPECIAL MENTIONS
-- ✨ [Anna Mary John](https://github.com/Annamjohn)
+- ✨ [Anna Mariam John](https://github.com/Annamjohn)
 - ✨ [Govind SR](https://github.com/theinfinox)
 - ✨ [Ashif](https://github.com/azhiif)
 
