@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src=https://komarev.com/ghpvc/?username=CSI-SCT-SB&style=flat-square" alt="profile views"> •  
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/CSI-SCT-SB?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/CSI-SCT-SB?label=Stars" alt="Total Stars">
 </p>
