@@ -25,7 +25,7 @@
 <a href="mailto:csi@sctce.ac.in"><img alt="" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
 </p>
 
-<h2 align="center"> <b> Upcoming Events <img src="https://media3.giphy.com/media/l2SpRL8lBEBtRR4I0/giphy.gif?cid=82a1493btkjxe782ehgbl8jrvzsefet5g9p7gpmx1ogtv24r&rid=giphy.gif&ct=g" width="20"> <b/></h2>
+<h2 align="center"> <b><img src="https://user-images.githubusercontent.com/79012314/207306119-e2b7adad-237e-4317-8701-fc86cb2339b0.png" width="200"> <b/></h2>
 
 <center>
 
@@ -37,11 +37,12 @@
 |        Event4             | Date        |
 </center>
 
-<h2 align="center">Performance <img src="https://media3.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif?cid=82a1493bft30ydix6ow8b4rimid18pltzniutfh6x7i7hbi1&rid=giphy.gif&ct=g" width="20"></h2>
+<h2 align="center"> <img src="https://user-images.githubusercontent.com/79012314/207305382-1fd444fe-9ec3-47cb-bcb6-e38c0e01a882.png" width="200"></h2>
 
 ![CSI-SCT-SB GitHub stats](https://github-readme-stats.vercel.app/api/?username=CSI-SCT-SB&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ![Language Inventory](https://github-readme-stats.vercel.app/api/top-langs/?username=CSI-SCT-SB&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 
 <h2 align="center"> <img src="https://offersandanswers.com/wp-content/uploads/2021/03/head-6.gif" width="250"></h2>
