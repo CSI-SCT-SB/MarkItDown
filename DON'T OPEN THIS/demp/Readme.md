@@ -194,7 +194,9 @@
 <a href="https://github.com/CSI-SCT-SB/ CSL_201_Data_structure_Lab/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/CSL_201_Data_structure_Lab" />
     </a>
-    <br>
+<a href="https://github.com/CSI-SCT-SB/CSL_201_Data_structure_Lab/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSI-SCT-SB/CSL_201_Data_structure_Lab?color=0088fF" />
+    </a> <br>
 <a href="https://github.com/CSI-SCT-SB/CSL_201_Data_structure_Lab/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=CSI-SCT-SB/CSL_201_Data_structure_Lab" />
 </a>
