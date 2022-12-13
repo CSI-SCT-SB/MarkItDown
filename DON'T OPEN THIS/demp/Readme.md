@@ -4,6 +4,12 @@
  <p align="center">OFFICIAL GITHUB HANDLE OF CSI SCT SB</p>
 </p>
 
+<p align="center">
+  <img src=https://komarev.com/ghpvc/?username=CSI-SCT-SB&style=flat-square" alt="profile views"> •  
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/CSI-SCT-SB?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/CSI-SCT-SB?label=Stars" alt="Total Stars">
+</p>
+
 <h2 align="center">About us</h2>
 <p align="center">Computer Society Of India, SCTCE Student Branch aims to develop the technical skills of students for their professional development by providing numerous webinars and workshops on leading topics and striving to create a great platform to showcase your technical skillsets and knowledge. CSI SCT SB hosts various events including lecture meetings, seminars, conferences, training programs, programming/coding contests, and practical visits to installations. Each and every member of CSI SCT SB are unique in their skills and talents. Teamwork with creativity, hard work, support for each other’s ideas, and most importantly the transparency about the work happening inside the team helps in achieving the end goal effortlessly<br>👇To know more check out our website👇<br><a href="https://csiindia.org"><img src="https://img.shields.io/badge/-Computer%20Society%20Of%20India-blue?style=for-the-badge" height = "27"></a></p>
 <br>
