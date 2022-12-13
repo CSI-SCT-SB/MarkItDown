@@ -13,7 +13,7 @@
 <h2 align="center">About us <img src="https://media3.giphy.com/media/Xoe0VkQvr3bAObKkUi/giphy.gif?cid=6c09b952dcd5ac4ca65e55922ac8416ae88f60e791cfb099&rid=giphy.gif&ct=g" width="20"></h2>
 <p align="center">Computer Society Of India, SCTCE Student Branch aims to develop the technical skills of students for their professional development by providing numerous webinars and workshops on leading topics and striving to create a great platform to showcase your technical skillsets and knowledge. CSI SCT SB hosts various events including lecture meetings, seminars, conferences, training programs, programming/coding contests, and practical visits to installations. Each and every member of CSI SCT SB are unique in their skills and talents. Teamwork with creativity, hard work, support for each other’s ideas, and most importantly the transparency about the work happening inside the team helps in achieving the end goal effortlessly<br>👇To know more check out our website👇<br><a href="https://csiindia.org"><img src="https://img.shields.io/badge/-Computer%20Society%20Of%20India-blue?style=for-the-badge" height = "27"></a></p>
 <br>
-<h2 align="center">🌐Connect with us on🌐</h2>
+<h2 align="center">Contact Us<img  <src="https://images.squarespace-cdn.com/content/v1/56012adce4b0cf12162d2a86/1472569189356-KGD5TAI2VUG58XPLP4TH/image-asset.gif" width="25"></h2>
 <p align="center">
 	<a href="https://www.linkedin.com/mwlite/company/csi-sct-sb/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://m.facebook.com/100083111421652/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
@@ -34,7 +34,14 @@
 |        Event4             | Date        |
 </center>
 
-<h2 align="center">Contributors</h2>
+<h2 align="center">Performance <img src="https://media3.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif?cid=82a1493bft30ydix6ow8b4rimid18pltzniutfh6x7i7hbi1&rid=giphy.gif&ct=g" width="20"></h2>
+
+![CSI-SCT-SB GitHub stats](https://github-readme-stats.vercel.app/api/?username=CSI-SCT-SB&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![Language Inventory](https://github-readme-stats.vercel.app/api/top-langs/?username=CSI-SCT-SB&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+<h2 align="center"> <img src="https://offersandanswers.com/wp-content/uploads/2021/03/head-6.gif" width="250"></h2>
 
 		  
 #### Py_Xtreme
