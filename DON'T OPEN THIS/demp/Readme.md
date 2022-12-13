@@ -24,10 +24,179 @@
 
 <h2 align="center"> <b> Upcoming Events <img src="https://media3.giphy.com/media/l2SpRL8lBEBtRR4I0/giphy.gif?cid=82a1493btkjxe782ehgbl8jrvzsefet5g9p7gpmx1ogtv24r&rid=giphy.gif&ct=g" width="20"> <b/></h2>
 
+<center>
 
-| Upcoming Events    |     Date    |
-| ------------------ | ----------- |
-| Event1             | Date        |
-| Event2             | Date        |
-| Event3             | Date        |
-| Event4             | Date        |
+|       Upcoming Events     |     Date    |
+| ------------------------- | ----------- |
+|        Event1             | Date        |
+|        Event2             | Date        |
+|        Event3             | Date        |
+|        Event4             | Date        |
+</center>
+
+<h2 align="center">Contributors</h2>
+
+		  
+#### Py_Xtreme
+
+<a href="https://github.com/CSI-SCT-SB/PY_XTREME/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/PY_XTREME" />
+    </a>
+<a href="https://github.com/CSI-SCT-SB/MarkItDown/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSI-SCT-SB/PY_XTREME?color=0088fF" />
+    </a>
+    <br>
+<a href="https://github.com/CSI-SCT-SB/PY_XTREME/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CSI-SCT-SB/PY_XTREME" />
+</a>
+
+#### AIL-333-AI-Algorithms-Lab
+
+<a href="https://github.com/CSI-SCT-SB/AIL-333-AI-Algorithms-Lab/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/AIL-333-AI-Algorithms-Lab" />
+    </a>
+<a href="https://github.com/CSI-SCT-SB/AML-331-Python-and-Machine-Learning-Lab/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSI-SCT-SB/AIL-333-AI-Algorithms-Lab?color=0088fF" />
+    </a>
+ <br>
+    
+<a href="https://github.com/CSI-SCT-SB/AIL-333-AI-Algorithms-Lab/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CSI-SCT-SB/AIL-333-AI-Algorithms-Lab" />
+</a>
+										  
+#### MarkItDown
+
+<a href="https://github.com/CSI-SCT-SB/MarkItDown/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/MarkItDown" />
+    </a>
+<a href="https://github.com/CSI-SCT-SB/MarkItDown/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSI-SCT-SB/MarkItDown?color=0088fF" />
+    </a><br>
+<a href="https://github.com/CSI-SCT-SB/MarkItDown/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CSI-SCT-SB/MarkItDown" />
+</a>
+										  
+
+
+#### AML-331-Python-and-Machine-Learning-Lab
+
+<a href="https://github.com/CSI-SCT-SB/AML-331-Python-and-Machine-Learning-Lab/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/AML-331-Python-and-Machine-Learning-Lab" />
+    </a>
+<a href="https://github.com/CSI-SCT-SB/AML-331-Python-and-Machine-Learning-Lab/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSI-SCT-SB/AML-331-Python-and-Machine-Learning-Lab?color=0088fF" />
+    </a>
+    <br>
+<a href="https://github.com/CSI-SCT-SB/MAML-331-Python-and-Machine-Learning-Lab/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CSI-SCT-SB/AML-331-Python-and-Machine-Learning-Lab" />
+</a>
+
+####  CSL-331-System-Software-and-Microprocessors-Lab
+
+<a href="https://github.com/CSI-SCT-SB/CSL-331-System-Software-and-Microprocessors-Lab/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/CSL-331-System-Software-and-Microprocessors-Lab" />
+    </a>
+<a href="https://github.com/CSI-SCT-SB/CSL-331-System-Software-and-Microprocessors-Lab/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSI-SCT-SB/CSL-331-System-Software-and-Microprocessors-Lab?color=0088fF" />
+    </a>
+<br>
+<a href="https://github.com/CSI-SCT-SB/CSL-331-System-Software-and-Microprocessors-Lab/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CSI-SCT-SB/CSL-331-System-Software-and-Microprocessors-Lab" />
+</a>
+
+####  CSL-204-Operating-Systems-Lab
+
+<a href="https://github.com/CSI-SCT-SB/CSL-204-Operating-Systems-Lab/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/CSL-204-Operating-Systems-Lab" />
+    </a>
+<a href="https://github.com/CSI-SCT-SB/CSL-204-Operating-Systems-Lab/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSI-SCT-SB/CSL-204-Operating-Systems-Lab?color=0088fF" />
+    </a>
+<br>
+<a href="https://github.com/CSI-SCT-SB/CSL-204-Operating-Systems-Lab/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CSI-SCT-SB/CSL-204-Operating-Systems-Lab" />
+</a>
+
+####  CSL-202-Digital-Lab
+
+<a href="https://github.com/CSI-SCT-SB/CSL-202-Digital-Lab/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/CSL-202-Digital-Lab" />
+    </a>
+<a href="https://github.com/CSI-SCT-SB/CSL-202-Digital-Lab/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSI-SCT-SB/CSL-202-Digital-Lab?color=0088fF" />
+    </a>
+    <br>
+<a href="https://github.com/CSI-SCT-SB/CSL-202-Digital-Lab/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CSI-SCT-SB/CSL-202-Digital-Lab" />
+</a>
+
+####  CSI-SCT-SB
+
+<a href="https://github.com/CSI-SCT-SB/CSI-SCT-SB/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/CSI-SCT-SB" />
+    </a>
+<a href="https://github.com/CSI-SCT-SB/CSI-SCT-SB/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSI-SCT-SB/CSI-SCT-SB?color=0088fF" />
+    </a>
+    <br>
+<a href="https://github.com/CSI-SCT-SB/CSI-SCT-SB/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CSI-SCT-SB/CSI-SCT-SB" />
+</a>
+
+#### AIL-202-OR-CSL-333-Database-Management-Systems-Lab
+<a href="https://github.com/CSI-SCT-SB/AIL-202-OR-CSL-333-Database-Management-Systems-Lab/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/AIL-202-OR-CSL-333-Database-Management-Systems-Lab" />
+    </a>
+<a href="https://github.com/CSI-SCT-SB/AIL-202-OR-CSL-333-Database-Management-Systems-Lab/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSI-SCT-SB/AIL-202-OR-CSL-333-Database-Management-Systems-Lab?color=0088fF" />
+    </a><br>
+<a href="https://github.com/CSI-SCT-SB/AIL-202-OR-CSL-333-Database-Management-Systems-Lab/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CSI-SCT-SB/AIL-202-OR-CSL-333-Database-Management-Systems-Lab" />
+</a>
+
+#### CSL203-Object-Oriented-Programming-Lab-In-Java
+
+<a href="https://github.com/CSI-SCT-SB/ CSL203-Object-Oriented-Programming-Lab-In-Java/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/CSL203-Object-Oriented-Programming-Lab-In-Java" />
+    </a>
+<a href="https://github.com/CSI-SCT-SB/CSL203-Object-Oriented-Programming-Lab-In-Java/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSI-SCT-SB/CSL203-Object-Oriented-Programming-Lab-In-Java?color=0088fF" />
+    </a><br>
+<a href="https://github.com/CSI-SCT-SB/CSL203-Object-Oriented-Programming-Lab-In-Java/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CSI-SCT-SB/CSL203-Object-Oriented-Programming-Lab-In-Java" />
+</a>
+
+####  Extra-Mile
+<a href="https://github.com/CSI-SCT-SB/AIL-333-AI-Algorithms-Lab/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/AIL-333-AI-Algorithms-Lab" />
+    </a>
+<a href="https://github.com/CSI-SCT-SB/Extra-Mile/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSI-SCT-SB/Extra-Mile?color=0088fF" />
+    </a>
+ <br>
+<a href="https://github.com/CSI-SCT-SB/Extra-Mile/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CSI-SCT-SB/Extra-Mile" />
+</a>
+
+####  EST102_Programming-in-C-S2
+<a href="https://github.com/CSI-SCT-SB/EST102_Programming-in-C-S2-/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/EST102_Programming-in-C-S2-" />
+    </a>
+<a href="https://github.com/CSI-SCT-SB/EST102_Programming-in-C-S2-/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSI-SCT-SB/EST102_Programming-in-C-S2-?color=0088fF" />
+    </a>
+ <br>
+<a href="https://github.com/CSI-SCT-SB/EST102_Programming-in-C-S2-/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CSI-SCT-SB/EST102_Programming-in-C-S2-" />
+</a>
+
+####  CSL_201_Data_structure_Lab
+<a href="https://github.com/CSI-SCT-SB/ CSL_201_Data_structure_Lab/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/CSL_201_Data_structure_Lab" />
+    </a>
+    <br>
+<a href="https://github.com/CSI-SCT-SB/CSL_201_Data_structure_Lab/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CSI-SCT-SB/CSL_201_Data_structure_Lab" />
+</a>
+
+
